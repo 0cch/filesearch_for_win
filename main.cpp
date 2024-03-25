@@ -1,9 +1,4 @@
 #include <Windows.h>
-#pragma warning(push)
-#pragma warning(disable : 4995)
-#include <AtlBase.h>
-#include <atlconv.h>
-#pragma warning(pop)
 #include <pybind11/pybind11.h>
 #include <pybind11/stl.h>
 
