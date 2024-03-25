@@ -1,0 +1,14 @@
+LIBRARY filesearch_sdk.dll
+EXPORTS
+	SearchEngineCreate
+	SearchEngineStart
+	SearchEngineWaitScanFinish
+	SearchEngineStop
+	SearchEngineDelete
+	SearchEngineSearch
+	SearchEngineUseDatabse
+	SearchEngineIsUseDatabase
+	SearchEngineSetDatabasePath
+	SearchEngineGetFullPath
+	SearchEngineReload
+	SearchEngineTextMatch
